@@ -9,5 +9,5 @@ using namespace name
 int main()
 {
     
-    
+    cout<<"Hello World'<<endl; //Added some new code
 }
